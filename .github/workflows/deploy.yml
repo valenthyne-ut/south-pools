@@ -21,7 +21,7 @@ jobs:
           cache: yarn
 
       - name: Install dependencies
-        run: yarn set version stable && yarn --immutable --immutable-cache
+        run: yarn set version stable && yarn --immutable
       - name: Build website
         run: yarn build
 
