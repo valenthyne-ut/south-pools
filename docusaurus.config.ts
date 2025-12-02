@@ -15,7 +15,7 @@ const config: Config = {
 	},
 	
 	// Set the production url of your site here
-	url: 'https://valenthyne-ut.github.io/',
+	url: 'https://github.com/',
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
 	baseUrl: '/south-pools',
@@ -24,7 +24,9 @@ const config: Config = {
 	// If you aren't using GitHub pages, you don't need these.
 	organizationName: 'valenthyne-ut', // Usually your GitHub org/user name.
 	projectName: 'south-pools', // Usually your repo name.
-	
+	deploymentBranch: "gh-pages",
+	trailingSlash: false,
+
 	onBrokenLinks: 'throw',
 	
 	// Even if you don't use internationalization, you can use this field to set
