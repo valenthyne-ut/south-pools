@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksouth_pools=globalThis.webpackChunksouth_pools||[]).push([[903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/south-pools/blog","blogTitle":"Blog","authorsListPath":"/south-pools/blog/authors"}')}}]);
