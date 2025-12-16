@@ -33,8 +33,8 @@ const config: Config = {
 	// useful metadata like html lang. For example, if your site is Chinese, you
 	// may want to replace "en" with "zh-Hans".
 	i18n: {
-		defaultLocale: 'en',
-		locales: ['en'],
+		defaultLocale: 'pt-PT',
+		locales: ['pt-PT'],
 	},
 	
 	presets: [
@@ -45,7 +45,7 @@ const config: Config = {
 					sidebarPath: './sidebars.ts',
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					//editUrl:
+					// editUrl:
 					//'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
 				},
 				blog: {
@@ -56,7 +56,7 @@ const config: Config = {
 					},
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					//editUrl:
+					// editUrl:
 					//'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
 					// Useful options to enforce blogging best practices
 					onInlineTags: 'warn',
@@ -83,12 +83,6 @@ const config: Config = {
 				src: 'img/logo.svg',
 			},
 			items: [
-				{
-					type: 'docSidebar',
-					sidebarId: 'tutorialSidebar',
-					position: 'left',
-					label: 'Tutorial',
-				},
 				{to: '/blog', label: 'Blog', position: 'left'},
 				{
 					href: 'https://valenthyne-ut.github.io/south-pools/blog',
@@ -101,32 +95,6 @@ const config: Config = {
 			style: 'dark',
 			links: [
 				{
-					title: 'Docs',
-					items: [
-						{
-							label: 'Tutorial',
-							to: '/docs/intro',
-						},
-					],
-				},
-				{
-					title: 'Community',
-					items: [
-						{
-							label: 'Stack Overflow',
-							href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-						},
-						{
-							label: 'Discord',
-							href: 'https://discordapp.com/invite/docusaurus',
-						},
-						{
-							label: 'X',
-							href: 'https://x.com/docusaurus',
-						},
-					],
-				},
-				{
 					title: 'More',
 					items: [
 						{
@@ -135,12 +103,12 @@ const config: Config = {
 						},
 						{
 							label: 'GitHub',
-							href: 'https://github.com/facebook/docusaurus',
+							href: 'https://github.com/valenthyne-ut/south-pools/',
 						},
 					],
 				},
 			],
-			copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+			copyright: `Copyright © ${new Date().getFullYear()} South Pools, Inc. Built with Docusaurus.`,
 		},
 		prism: {
 			theme: prismThemes.github,
