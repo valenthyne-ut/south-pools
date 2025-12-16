@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksouth_pools=globalThis.webpackChunksouth_pools||[]).push([[472],{5513:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\xc1gua limpa e cristalina durante o ano inteiro","permalink":"/south-pools/blog/aguas_cristalinas","unlisted":false,"date":"2025-10-15T00:00:00.000Z"}]}')}}]);
