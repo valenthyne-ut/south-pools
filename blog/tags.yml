@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+maintenance:
+  label: Manutenção
+  permalink: /maintenance
+  description: Blogs que descrevem processos de manutenção
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+cleaning:
+  label: Limpeza
+  permalink: /cleaning
+  description: Blogs que descrevem o processo de limpeza
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+seasonal:
+  label: Sazonal
+  permalink: /seasonal
+  description: Blogs que contêm informação sazonal
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+chemicals:
+  label: Químicos
+  permalink: /chemicals
+  description: Blogs que contêm informação sobre químicos
+
+water:
+  label: Água
+  permalink: /water
+  description: Blogs que contêm informação sobre a água da piscina
