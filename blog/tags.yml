@@ -22,3 +22,13 @@ water:
   label: Água
   permalink: /water
   description: Blogs que contêm informação sobre a água da piscina
+
+summer:
+  label: Verão
+  permalink: /summer
+  description: Blogs que contêm informação relevante ao Verão
+
+winter:
+  label: Inverno
+  permalink: /winter
+  description: Blogs que contêm informação relevante ao Inverno
