@@ -68,7 +68,7 @@
         <title type="html"><![CDATA[Quantas piscinas existem em Portugal?]]></title>
         <id>https://github.com/south-pools/blog/quantidade-piscinas-portugal</id>
         <link href="https://github.com/south-pools/blog/quantidade-piscinas-portugal"/>
-        <updated>2019-05-30T00:00:00.000Z</updated>
+        <updated>2025-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[De acordo com a Associação Portuguesa de Profissionais de Piscinas (APP), existem cerca de 240 000 piscinas em Portugal. Para obter uma aproximação regional, foi utilizado o Overpass Turvo, uma ferramenta de busca de dados open-source sobre mapas OpenStreetMap (OpenStreeMap,2025). A pesquisa no Algarve devolve cerca de 7 mil piscinas mapeadas.]]></summary>
         <content type="html"><![CDATA[<p>De acordo com a Associação Portuguesa de Profissionais de Piscinas (APP), existem cerca de <strong>240 000 piscinas em Portugal</strong>. Para obter uma aproximação regional, foi utilizado o <em>Overpass Turvo</em>, uma ferramenta de busca de dados open-source sobre mapas <a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer" class="">OpenStreetMap</a> (OpenStreeMap,2025). A pesquisa no Algarve devolve cerca de 7 mil piscinas mapeadas.</p>
 <p>Esta estimativa mostra como as piscinas privadas deixaram de ser um luxo raro e passaram a fazer parte do dia a dia de muitas famílias.</p>
@@ -89,9 +89,7 @@
             <name>Valentim Uritu Tokalenko</name>
             <uri>https://github.com/valenthyne-ut</uri>
         </author>
-        <category label="Piscinas" term="Piscinas"/>
-        <category label="Mercado" term="Mercado"/>
-        <category label="Portugal" term="Portugal"/>
-        <category label="Algarve" term="Algarve"/>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="hola" term="hola"/>
     </entry>
 </feed>

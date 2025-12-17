@@ -53,7 +53,7 @@
             <title><![CDATA[Quantas piscinas existem em Portugal?]]></title>
             <link>https://github.com/south-pools/blog/quantidade-piscinas-portugal</link>
             <guid>https://github.com/south-pools/blog/quantidade-piscinas-portugal</guid>
-            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[De acordo com a Associação Portuguesa de Profissionais de Piscinas (APP), existem cerca de 240 000 piscinas em Portugal. Para obter uma aproximação regional, foi utilizado o Overpass Turvo, uma ferramenta de busca de dados open-source sobre mapas OpenStreetMap (OpenStreeMap,2025). A pesquisa no Algarve devolve cerca de 7 mil piscinas mapeadas.]]></description>
             <content:encoded><![CDATA[<p>De acordo com a Associação Portuguesa de Profissionais de Piscinas (APP), existem cerca de <strong>240 000 piscinas em Portugal</strong>. Para obter uma aproximação regional, foi utilizado o <em>Overpass Turvo</em>, uma ferramenta de busca de dados open-source sobre mapas <a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer" class="">OpenStreetMap</a> (OpenStreeMap,2025). A pesquisa no Algarve devolve cerca de 7 mil piscinas mapeadas.</p>
 <p>Esta estimativa mostra como as piscinas privadas deixaram de ser um luxo raro e passaram a fazer parte do dia a dia de muitas famílias.</p>
@@ -66,10 +66,8 @@
 <p>Nas regiões turísticas, como o Algarve, as piscinas são vistas como parte essencial da experiência de férias.</p>
 </blockquote>
 <p><img decoding="async" loading="lazy" alt="Mapa de piscinas no Algarve" src="https://github.com/south-pools/assets/images/image-8d8293365702667f6e287065447e6c7e.png" width="940" height="536" class="img_ev3q"></p>]]></content:encoded>
-            <category>Piscinas</category>
-            <category>Mercado</category>
-            <category>Portugal</category>
-            <category>Algarve</category>
+            <category>docusaurus</category>
+            <category>hola</category>
         </item>
     </channel>
 </rss>
