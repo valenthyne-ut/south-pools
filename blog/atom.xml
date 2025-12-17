@@ -69,8 +69,9 @@
         <id>https://github.com/south-pools/blog/quantidade-piscinas-portugal</id>
         <link href="https://github.com/south-pools/blog/quantidade-piscinas-portugal"/>
         <updated>2025-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[De acordo com a Associação Portuguesa de Profissionais de Piscinas (APP), existem cerca de 240 000 piscinas em Portugal. Para obter uma aproximação regional, foi utilizado o Overpass Turvo, uma ferramenta de busca de dados open-source sobre mapas OpenStreetMap (OpenStreeMap,2025). A pesquisa no Algarve devolve cerca de 7 mil piscinas mapeadas.]]></summary>
-        <content type="html"><![CDATA[<p>De acordo com a Associação Portuguesa de Profissionais de Piscinas (APP), existem cerca de <strong>240 000 piscinas em Portugal</strong>. Para obter uma aproximação regional, foi utilizado o <em>Overpass Turvo</em>, uma ferramenta de busca de dados open-source sobre mapas <a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer" class="">OpenStreetMap</a> (OpenStreeMap,2025). A pesquisa no Algarve devolve cerca de 7 mil piscinas mapeadas.</p>
+        <summary type="html"><![CDATA[De acordo com a Associação Portuguesa de Profissionais de Piscinas (APP), existem cerca de 240 000 piscinas em Portugal.]]></summary>
+        <content type="html"><![CDATA[<p>De acordo com a Associação Portuguesa de Profissionais de Piscinas (APP), existem cerca de <strong>240 000 piscinas em Portugal</strong>.</p>
+<p>Para obter uma aproximação regional, foi utilizado o <em>Overpass Turbo</em>, uma ferramenta de busca de dados open-source sobre mapas <a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer" class="">OpenStreetMap</a>. A pesquisa no Algarve devolve cerca de 7 mil piscinas mapeadas.</p>
 <p>Esta estimativa mostra como as piscinas privadas deixaram de ser um luxo raro e passaram a fazer parte do dia a dia de muitas famílias.</p>
 <blockquote>
 <p>No entanto, a associação lembra que as populações das zonas mais afectadas pela seca recorrem às piscinas para se “refrescar e obter níveis de conforto que não conseguiriam em outras circunstâncias”, o que ajuda a explicar o aumento da procura.</p>
@@ -91,7 +92,7 @@
         </author>
         <category label="Sazonal" term="Sazonal"/>
         <category label="Inverno" term="Inverno"/>
-        <category label="sumer" term="sumer"/>
+        <category label="Verão" term="Verão"/>
         <category label="Água" term="Água"/>
     </entry>
 </feed>
