@@ -2,7 +2,7 @@
 slug: quantidade-piscinas-portugal
 title: Quantas piscinas existem em Portugal?
 authors: [mnechifor, vutokalenko]
-tags: [docusaurus, hola]
+tags: [seasonal,winter, sumer,water]
 ---
 
 De acordo com a Associação Portuguesa de Profissionais de Piscinas (APP), existem cerca de **240 000 piscinas em Portugal**. Para obter uma aproximação regional, foi utilizado o *Overpass Turvo*, uma ferramenta de busca de dados open-source sobre mapas [OpenStreetMap](https://overpass-turbo.eu/) (OpenStreeMap,2025). A pesquisa no Algarve devolve cerca de 7 mil piscinas mapeadas.
