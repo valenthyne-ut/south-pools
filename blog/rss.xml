@@ -4,10 +4,28 @@
         <title>South Pools Blog</title>
         <link>https://github.com/south-pools/blog</link>
         <description>South Pools Blog</description>
-        <lastBuildDate>Wed, 15 Oct 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pt-PT</language>
+        <item>
+            <title><![CDATA[Serviços que são oferecidos]]></title>
+            <link>https://github.com/south-pools/blog/servicos_piscinas</link>
+            <guid>https://github.com/south-pools/blog/servicos_piscinas</guid>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Manter uma piscina limpa, segura e agradável não depende só de produtos químicos. Um plano de serviços de manutenção bem definido evita problemas e reduz custos a longo prazo.]]></description>
+            <content:encoded><![CDATA[<p>Manter uma piscina limpa, segura e agradável não depende só de produtos químicos. Um plano de serviços de manutenção bem definido evita problemas e reduz custos a longo prazo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="manutenção-regular">Manutenção regular<a href="https://github.com/south-pools/blog/servicos_piscinas#manuten%C3%A7%C3%A3o-regular" class="hash-link" aria-label="Link direto para Manutenção regular" title="Link direto para Manutenção regular" translate="no">​</a></h2>
+<p>Neste serviço incluímos a verificação do nível de água, inspeção do sistema de filtração, limpeza da superfície e controlo visual da cor e transparência da água.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="limpeza-profunda">Limpeza profunda<a href="https://github.com/south-pools/blog/servicos_piscinas#limpeza-profunda" class="hash-link" aria-label="Link direto para Limpeza profunda" title="Link direto para Limpeza profunda" translate="no">​</a></h2>
+<p>Quando a sujidade se acumula nas paredes e no fundo, fazemos escovagem completa, aspiração e remoção de depósitos, garantindo que a piscina fica pronta para uso intensivo.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tratamento-químico">Tratamento químico<a href="https://github.com/south-pools/blog/servicos_piscinas#tratamento-qu%C3%ADmico" class="hash-link" aria-label="Link direto para Tratamento químico" title="Link direto para Tratamento químico" translate="no">​</a></h2>
+<p>Ajustamos pH, cloro e outros parâmetros de acordo com as necessidades da piscina, utilizando produtos adequados para proteger utilizadores e equipamentos.</p>]]></content:encoded>
+            <category>Manutenção</category>
+            <category>Limpeza</category>
+            <category>Químicos</category>
+            <category>Sazonal</category>
+        </item>
         <item>
             <title><![CDATA[Água limpa e cristalina durante o ano inteiro]]></title>
             <link>https://github.com/south-pools/blog/aguas_cristalinas</link>
