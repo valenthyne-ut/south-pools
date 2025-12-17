@@ -1,8 +1,8 @@
 ---
-slug: servicos-piscinas
+slug: servicos_piscinas
 title: Serviços que são oferecidos
 authors: [mnechifor, vutokalenko]
-tags: [Manutenção, Tratamento, Limpeza, Quimicos, Sazonal)]
+tags: [maintenance, cleaning, chemicals, seasonal]
 ---
 
 Manter uma piscina limpa, segura e agradável não depende só de produtos químicos. Um plano de serviços de manutenção bem definido evita problemas e reduz custos a longo prazo.
@@ -20,6 +20,3 @@ Quando a sujidade se acumula nas paredes e no fundo, fazemos escovagem completa,
 ## Tratamento químico
 
 Ajustamos pH, cloro e outros parâmetros de acordo com as necessidades da piscina, utilizando produtos adequados para proteger utilizadores e equipamentos.
-
-
-
