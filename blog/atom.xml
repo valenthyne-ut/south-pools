@@ -89,7 +89,9 @@
             <name>Valentim Uritu Tokalenko</name>
             <uri>https://github.com/valenthyne-ut</uri>
         </author>
-        <category label="docusaurus" term="docusaurus"/>
-        <category label="hola" term="hola"/>
+        <category label="Sazonal" term="Sazonal"/>
+        <category label="Inverno" term="Inverno"/>
+        <category label="sumer" term="sumer"/>
+        <category label="Água" term="Água"/>
     </entry>
 </feed>
